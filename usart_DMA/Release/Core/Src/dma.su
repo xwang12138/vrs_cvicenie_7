@@ -1,0 +1,2 @@
+core_cm4.h:1745:26:NVIC_EncodePriority.constprop	0	static
+dma.c:37:6:MX_DMA_Init	16	static
